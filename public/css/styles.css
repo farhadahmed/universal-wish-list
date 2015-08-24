@@ -1,0 +1,31 @@
+#icon-section {
+  display: inline-block;
+}
+
+#icon {
+  height: 5em;
+  width: 7em;
+  margin-right: 3em;
+}
+
+#header-nav {
+  display: inline-block;
+}
+
+header {
+  margin-bottom: 3em;
+}
+
+.category {
+  height: 10em;
+  width: 10em;
+}
+
+#category-section {
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+button {
+  border-radius: 10%;
+}
